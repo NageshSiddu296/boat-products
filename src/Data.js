@@ -35,7 +35,7 @@ export default [
     flash: "https://cdn-icons-png.flaticon.com/128/6839/6839859.png",
     badge: "SUPER SAVER",
     image:
-      "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_blue_759e7ad4-18af-4407-9e8a-91c0058b1a74_300x.png?v=1648108782",
+      "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/6af12e30-e6d0-43d3-afd2-500065309a3e_300x.png?v=1673005562",
     name: "Wave Lite",
     price: "1,499",
     discount: "59% off",
